@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "692235459515",
+    "firebase_url": "https://udhyamaapp.firebaseio.com",
+    "project_id": "udhyamaapp",
+    "storage_bucket": "udhyamaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692235459515:android:136bbea7df797bd24b829e",
+        "android_client_info": {
+          "package_name": "com.example.udhyamaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692235459515-m4o72kiohs3050k8u0r8um2g7h7u958q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.udhyamaapp",
+            "certificate_hash": "461c36dbf30742bd32d46d0860dd05c5e5698002"
+          }
+        },
+        {
+          "client_id": "692235459515-limamghsoqiim5at5n7604ck486qhu2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYgdWKFVV1j6J1b1A6NgaXTypR0cfZi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692235459515-limamghsoqiim5at5n7604ck486qhu2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
